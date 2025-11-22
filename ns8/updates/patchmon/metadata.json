@@ -1,0 +1,19 @@
+{
+  "name": "patchmon",
+  "description": {
+    "en": "PatchMon Monitor Linux patches across all your hosts with real-time visibility, security update tracking, and comprehensive package management."
+  },
+  "categories": ["monitoring"],
+  "authors": [
+    {
+      "name": "dz00te",
+      "email": "dz00te@framassa.org"
+    }
+  ],
+  "docs": {
+    "documentation_url": "https://docs.patchmon.net/",
+    "bug_url": "https://community.nethserver.org",
+    "code_url": "https://github.com/dz00te/ns8-patchmon"
+  },
+  "source": "ghcr.io/dz00te/patchmon"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "homepage",
+  "description": {
+    "en": "Homepage is a modern, fully static, fast, secure fully proxied, highly customizable application dashboard."
+  },
+  "categories": ["monitoring"],
+  "authors": [
+    {
+      "name": "dz00te",
+      "email": "dz00te@framassa.org"
+    }
+  ],
+  "docs": {
+    "documentation_url": "https://gethomepage.dev/configs/",
+    "bug_url": "https://community.nethserver.org",
+    "code_url": "https://github.com/dz00te/ns8-homepage"
+  },
+  "source": "ghcr.io/dz00te/homepage"
+}
